@@ -1,4 +1,4 @@
-# https://lacri1.github.io/QQQ-TQQQ-comparison/
+# https://lacri1.github.io/LeverageETFDecay/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
