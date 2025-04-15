@@ -1,5 +1,15 @@
 # https://lacri1.github.io/LeverageETFDecay/
 
+Leverage ETF Return Decay
+
+Due to compounding effects and daily rebalancing, leveraged ETFs often show a discrepancy between their theoretical leveraged returns and actual performance.
+
+This divergence becomes more pronounced in volatile or choppy markets, where the actual returns can fall short of expectations.
+
+Such decay makes leveraged ETFs structurally unsuitable for long-term investing and highlights their design as short-term trading instruments.
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
