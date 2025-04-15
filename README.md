@@ -1,4 +1,4 @@
-# https://lacri1.github.io/LeverageETFDecay/
+# https://lacri1.github.io/LeverageETFReturnDecay/
 
 Leverage ETF Return Decay
 
